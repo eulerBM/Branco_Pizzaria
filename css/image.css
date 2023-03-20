@@ -1,0 +1,54 @@
+.image1 {
+    border-radius: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+      
+}
+
+#extra {
+    border-radius: 1%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    
+
+}
+
+.div_extra {
+    text-align: center;
+    background-color: rgba(14, 24, 8, 0.404);
+    border-top: solid;
+    border-width: 1px;
+    border-color: white;
+
+}
+
+@media(max-width:500px){
+
+    .image1 {
+        width: 100%;
+        
+    }
+    #image_margin {
+        margin-bottom: 10%;
+    }
+    #extra{
+        width: 100%;
+    }
+}
+
+@media(min-width:500px){
+    .div_extra{
+        margin-top: 5%;
+    }
+
+    
+}
+
+
+
+
+
+
+
