@@ -2,20 +2,22 @@
     text-align: center;
     width: 100%;  
     
+    
 }
 
 .icon-facebook {
-    color: white;
+    color: rgb(0, 17, 255);
+    
 }
 
 .icon-instagram {
-    color: white;
+    color: rgb(211, 76, 216);
 }
 
 .icon-whatsapp {
-    color: white;
+    color: rgb(0, 129, 28);
 }
 
 .icon-phone {
-    color: white;
+    color: rgb(0, 0, 0);
 }
